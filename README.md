@@ -1,5 +1,5 @@
 # first-project
-This repo is a shopping web-page inspired by Nike. contains  main and a second page 
+This repo is a shopping web-page inspired by Nike. contains  main and a second page, created using html, css and javasript
 ##
  index.html and index.js is for the main page, shop1.html and code.js is for the second page
  ##
